@@ -1,0 +1,420 @@
+title,score,id,url,comms_num,created,author,body
+"The online course for ""Automate the Boring Stuff with Python"" is free to sign up this week.",2082,bz3rxv,https://www.reddit.com/r/learnpython/comments/bz3rxv/the_online_course_for_automate_the_boring_stuff/,245,1560231893.0,AlSweigart,"School's out, but that doesn't mean you have to stop learning. The online video course from the author of ""Automate the Boring Stuff with Python"" (that's me) is free to sign up for this week. This sign up will give you life time access to the course. Just use the following link:
+
+https://www.udemy.com/automate/?couponCode=SCHOOLS_OUT2
+
+This course is made for complete beginners who have no experience programming. It's ""programming for office workers"" because it skips computer science and teaches you how to do practical tasks: web scraping, updating Excel spreadsheets, parsing PDFs and Word documents, sending out automated email and text notifications, controlling the mouse and keyboard, and more. If you're an experienced programming, you can skip the first half (which covers basic programming concepts) and directly learn about several useful modules for Python.
+
+(This code expires on June14th. Previously I'd give out codes to folks who asked me after the expiration, but it turns into a logistical headache to keep making coupons each time someone asked, so the deadline is firm.)
+
+If you'd like to support me by using an affiliate code (or encourage yourself to finish the course since you put money down on it), you can also use one of these links to pay what you like: (MODS: if this is too spammy, I can take these links down) (EDIT: Udemy changed their promotion scheme. You'll have to use this new LOWESTPRICE code, which I've set to the lowest allowed. It's $14 now, but that might change in the future.)
+
+* https://www.udemy.com/course/automate/?couponCode=LOWESTPRICE
+
+This online course covers most, but not quite everything, in the Automate the Boring Stuff with Python book, which is freely available online under a Creative Commons license. You can read it at: https://automatetheboringstuff.com/ (The book has a few more examples, and also covers programmatically creating/editing image files, for example).
+
+If you like the course (or don't like it), please remember to rate it.
+
+Good luck on your programming journey!"
+"I'm 100% self taught, landed my first job! My experience!",1897,ctkypf,https://www.reddit.com/r/learnpython/comments/ctkypf/im_100_self_taught_landed_my_first_job_my/,314,1566441255.0,JLaurus,"Hi all, 
+
+Firstly this is going to be a long post to hopefully help people genuinely looking to commit to becoming a developer by sharing my story of how I went from absolutely zero knowledge of programming (as you can see by my post history) to landing my first python developer role.
+
+Location: UK
+
+To kick things off about a year ago I wasnt happy with the job(s) I was doing, long hours, very low pay, so I came across python by chance. Yes I admit the money was what attracted me alone to start off with as I am quite a money motivated person. Ofcourse I knew and still know it will be a long journey to reach the salaries offered but I have managed to finally get my first step on the ladder by landing a job as a python developer. Enough of the story, lets get on with it.
+
+I will list all of the youtube playlists and channels I watched over and over again. 
+Bear in mind whilst reading these books I did watch a lot of videos in between reading aswell!
+What books I read, in order. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+First book:
+
+Python Crash Course: A Hands-On, Project-Based Introduction to Programming - Eric Matthes
+Review: Great first book, my advice, skip the game and django project and just do the matplotlib project for now (come back to django later down the line once you understand the HTTP protocol and how requests work)
+
+10/10 recommend
+
+p.s. I know a lot of people recommend reading Automate the boring stuff and I regret not reading it after this one!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Book 2:
+
+Learning python - Mark Lutz
+Review: Very good book for getting a grasp on python fundamentals. I would not of read this without first reading Python crash course. You will need to supplement this book with looking up videos on youtube for a deeper understanding as this book is very dry to read and long! 1400 pages! I found a pdf format online for free to read. Don't need to buy it.
+
+10/10 recommend (supplement with videos)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Book 3:
+
+Programming Python - Mark Lutz
+Review: Very good book. I would not read this book word for word. Skim through the book to get an understanding. I would ignore following the projects in the book. Don't spend too much time on it. (Ignore tkinter chapters)
+
+6/10 = Would I read again? Its worth having on your computer to refer to IMO. - You can find this online for free in pdf. 1300 pages.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From here on I pretty much decided after researching jobs and where the demand was for python developers, that I was going to learn django and learn the web based side of things from here on out.
+
+Most of this from here on is django specific so if you want to learn python for data science or another area you may want to use this as a template and just change the books and videos to meet your needs. O'reilly has a bunch of books on python, there are also so many videos on youtube to help aswell.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Before you jump into django / flask wouldn't it be best to learn how the internet works first? Learn from my mistakes and learn this first before django!
+
+https://www.youtube.com/watch?v=e4S8zfLdLgQ&list=PLLy4MeON3hKCtMvu4yA-DKRG_gsgRR1jM&index=45&t=0s
+I believe from memory there is also a part 2.
+
+Learn what the http protocol is, learn how requests are sent to a server, learn the difference between GET, POST, PUT, DELETE.
+
+Learnt that? Great, lets move on.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Resource - https://wsvincent.com/
+
+Book 4:
+
+Django for beginners - WS Vincent
+Review: Absolutely great first book for learning django! I would highly reccomend also following https://www.djangoproject.com/start/ alongside this book to get you started.
+
+10/10 - This is a must read imo.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Book 5:
+
+I keep hearing the words API, and REST, wtf are they?
+
+Have no fear my friend!
+Watch this first - https://www.youtube.com/watch?v=Q-BpqyOT3a8
+
+REST APIs with Django - WS Vincent
+Review: Great book to learn how to use Django REST API and how it works. 
+8/10 would recommend, however it isnt a very big book and I felt the book wasn't great value for money, I felt at this point I was starting to ask questions in my own mind when reading code on how things could be implemented and expanded on and I felt this book could of had a bit more detail rather than just pointing to external resources. 
+However this book does get you going on how to use django REST and sets you up nicely to learn more advanced material.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+At this point I was starting to consider when I would be ready to start applying to jobs. 
+Start jotting down ideas for any small projects you want to make, for myself it was an REST API app showing CRUD functionality, and a working django website.
+
+I learned basic HTML and CSS to have a better understanding of how templates work and how objects / data is sent from the backend and displayed in the front end and vice versa.
+
+HTML/CSS series - https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+You're still here? Congrats!
+
+I had done a lot of reading and hearing about data structures and algorithms and how you needed a computer science degree to learn it. 
+
+Book 6 - Cracking the coding interview - Gayle Laakmann McDowell
+Review: What to say about this book? Wow, this book was a massive learning curve for me! Considering most days I was spending 6-8 hours committed to learning, some days I would only manage to get through half a page. This book took me 6-8 weeks to go through from memory. All of the examples are in Java so I had to look up corresponding tests in python and reverse engineer to see what was going on.
+
+10/10 This is an absolute must read for anyone. Buy it, read it, understand it, stick it on your shelf, read it again in the future.
+
+Videos to supplement - https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+Cracking the coding interview book also has a corresponding video course on youtube by the author, this helps a lot!
+
+https://runestone.academy/runestone/books/published/pythonds/index.html - this is also a fantastic resource in python!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ahh yes, I think I'm ready to apply for roles! Slow down there young spud! We are not finished!
+
+Test Driven Development - Harry Percival
+
+https://www.obeythetestinggoat.com/book/bibliography.html#seceng
+
+Review: MUST READ, MUST READ. No excuses, get it done, go through it twice, follow the projects, every single interview will involve questions about TDD!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From here I wanted to have a better understanding of the internet. So I read:
+
+Computer networking: A top down approach
+
+https://github.com/arasty/books/blob/master/0.Computer%20Networking%20-%20A%20Top-Down%20Approach%20(6th%20Edition).pdf
+
+Review: If you do want a better understanding of the internet / networking then skim through this book. As soon as you understand http protocol, TCP/IP, then close the book and move on.
+
+6/10 - Not a must read, but nice to know!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From here on I didn't read any other books. Most of my time was spent creating my projects to put in a portfolio, watching more videos, getting confused and solving my own problems by building a site using django and learning along the way, and reading the official django documentation.
+
+To keep it short and sweet from here on out I am just going to list the youtubers who truly helped me out, technically and also keeping my motivations high!
+
+https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g - Corey Schafer - 10/10, not going to list any other independent python tutorials, this guy is all you need!
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ - FreeCodeCamp - Fantastic resource, so much on here, only watch what you need to learn, dont get caught up in trying to learn everything the channel has to offer.
+
+The two channels above are all I would recommend for video resources. Freecodecamp also does a good SQL for beginners which is worth watching for any developer.
+
+Other channels 10/10 worth checking out
+
+https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA - Andy Sterkowitz
+https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg - Chris Sean (my personal favorite)
+
+Traversymedia and thenewboston are both great channels as well for a slightly different way of explaining things if you truly do get stuck.
+
+Interviews:
+
+So after I made a few projects and uploaded them to my github, I put the github link on my CV aswell. I made a linkedin profile aswell.
+
+You may experience a bucket load of recruiters contacting you if you have set up a new linkedin.
+
+My tips for dealing with recruiters (based on my own mistakes):
+
+- Always tell them what you are looking for, DO NOT let them push you forward for a role or arrange interviews on your behalf for roles you are not comfortable with. 
+- If they are aggressive and abusive (yes I have had this), simply hang up the phone, block their number and move on. 
+- Tell them ""I am looking for a junior python role using django ONLY or similar framework"" (ofcourse you can edit this to your area of knowledge)
+- I had so many phone calls I stopped accepting calls as over 50% of calls were roles that were too senior for me or calls about roles I had already applied/spoken about. I set a voicemail up telling them to email me and I will get back to them. Take this advice please, it will save you repeating yourself 20 times a day.
+- You have had an email about a job role? They will usually want to speak to you on the phone first, however I learned to reply along the lines of ""please understand I get contacted frequently by many recruiters, please can you send over a job spec for me to look over prior to arranging a call"".
+This works majority of the time, if they don't reply, trust me you haven't lost out!
+- They may ask you on the phone ""Where have you already applied for?"" Be confident and simply reply ""I would rather not say"", hold your ground, its your own business, not theirs, if they have a role for a company to put to you then lets hear it, be respectful and polite but don't let them push you around, many will try to!
+- They have told you on the phone about a company you have already applied for? ""Sorry I am already engaged with that company"" they will press you on this ""With who? How long ago? What stage are you on?"" Once again, simply say ""I would rather not say"" I have never had a recruiter push me after I have responded that way.
+- Salary ""What are your salary expectations?"" ""What salary are you on at the moment?"" My advice? Simply reply ""Well, what does the role pay?"" Its as simple as that, if a company cant be open and honest about what the salary range is for a junior level role are they even worth wasting your time on? Your current salary is nobodies business, your answer: ""I would rather not say""
+
+If you apply directly to a company through their own website / indeed or any similar jobsite they may ask for salary expectations. I did put in salary expectations for my current job when I applied directly. So just know when to do it and when not to. Applying directly with a good cover letter has most of the time netted me a positive response.
+
+If you have got this far I have no doubt you can become a developer. Yes I am only junior. It has been a long road for me and the learning curve has been insane. I have gone for weeks on end sometimes thinking I am not getting anywhere and wondering when the end will come. You are not alone. Its a small sacrifice in the long term if you truly want to make this your career.
+
+Interviews:
+
+If you manage to land a phone call and/or a face to face interview here are my tips:
+
+- Do not put anything on your CV you do not know in detail. It is easy to expose in a technical interview. 99% of the time questions will be about your CV.
+- What do you know about the company? Why do you want to work here? Do your research, I usually tried to memorize 2-3 things in reasonable detail about the company, it shows a good interest in them.
+Go on their website, read what they do, learn it, memorize, think ""Why would I want to work here?"" answer that with a good answer and you should be good to go.
+- Dress smart! Yes they may wear tshirt and jeans to work. You do not work there yet. Business dress all the time! Shirt, tie, suit if you can! (EDIT: I am in the UK, business dress based on my own work experience in the UK is standard for most jobs, if you are unsure of dress code ask your potential employer prior to interview as I don't want to mislead anyone)
+- Be friendly, polite, act keen (not desperate)
+- ""Would you like a drink of coffee/water before we start"" the answer to this is YES PLEASE! You will need that water to sip on when your mouth goes dry! haha! I've been there!
+- Trouble answering a question? Relax, pause, and just say ""let me think one moment"", if you don't know the answer, just say ""I don't know the answer"" its good to be honest, I have always had a good response by being honest when I have not known the answer! 
+
+I hope this post will help you if you are struggling to find a path. I wish you all the best and good luck!
+
+TLDR: If you want to change your life. Read it."
+Second edition of Automate the Boring Stuff with Python is now free online.,1464,eia22b,https://www.reddit.com/r/learnpython/comments/eia22b/second_edition_of_automate_the_boring_stuff_with/,86,1577861045.0,AlSweigart,"A list of the new sections is here: https://inventwithpython.com/blog/2019/12/31/reading-guide-to-automate-the-boring-stuff-second-edition-for-readers-of-the-first-edition/
+
+The table of contents and full book for the second edition is here: https://automatetheboringstuff.com/2e/"
+Beginner's Python Cheat Sheets (updated),1441,djqm6v,https://www.reddit.com/r/learnpython/comments/djqm6v/beginners_python_cheat_sheets_updated/,129,1571447803.0,ehmatthes,"Hi everyone! A few years ago I made a set of cheat sheets to go along with the first edition of Python Crash Course. I recently finished updating the cheat sheets to match the changes that were made to the second edition of the book. These sheets aim to remind you of Python's syntax, but they also include brief explanations of the concepts behind the syntax as well. These are all free to download, and they are not specific to the book - they should be helpful to many people, regardless of what your primary learning resource is. 
+
+The first sheet provides an overview of many basic concepts in Python. Individual sheets cover lists, dictionaries, if statements and while loops, functions,  classes, and more. There are also library-specific cheat sheets for Pygame, Matplotlib, Plotly, and Django. You can download individual sheets, download a pdf that includes all the sheets in one document, or download a zip file that includes each sheet in a separate pdf file. Here's an [overview of all the sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/), with links to download whichever version is most appropriate for you.
+
+Cheat sheets have been really helpful to me at times when learning a new language or framework, and I continue to use the library-focused sheets when starting new projects. I hope these are useful to many of you as well."
+I'm super annoyed and taking it out on learnpython,1371,byfigg,https://www.reddit.com/r/learnpython/comments/byfigg/im_super_annoyed_and_taking_it_out_on_learnpython/,256,1560075446.0,SpergLordMcFappyPant,"I've been a senior level software engineer for over 10 years. I have a ton of experience with multiple languages. I've been doing a lot of hard stuff for a very long time. I asked a twitter question to a pretty well-known person in the area I work in the other day, and he got really huffy, assumed that I had no idea what I was doing, told me to not ever do what I was asking about, and told me to go find a different job because I'm not competent to do the one I'm at right now. Never even asked why I was trying to do things a certain way, and just assumed that I was a n00b causing trouble.
+
+&#x200B;
+
+It made me really fucking angry. And it also made me think about how we deal with people we don't know, make assumptions based on questions, and tend to talk shit to people who aren't a part of our in-circle. About how things that people have done for a long time tend to get easier and how we forget how much we didn't know when we were getting started.
+
+&#x200B;
+
+So, I'm taking all my anger at that person out on this sub. I'm going to spend all day tomorrow answering all the questions I possibly can on learnpython in the kindest way I can and with a mentoring attitude where I'll try to understand where you're coming from, what you're trying to achieve, what might be the best way to get to it, and maybe a little extra handholding along the way.
+
+&#x200B;
+
+Be the change you want to see, right?
+
+&#x200B;
+
+Ask me anything about python and anything related to python. I'll spend 12 hours tomorrow answering every question I can.
+
+&#x200B;
+
+&#x200B;
+
+EDIT: man, I was 50/50 on this post getting thrashed by the mods for being a rant. I'm so happy this is getting a lot of responses!
+
+&#x200B;
+
+First of all, thank you to all of you well-wishers encouraging me to not take it so hard. I do take it hard, and that's why I'm trying to resist and do something different with my frustration. To the person who said there needs to be more people like me in the world . . . thanks. That made my day.
+
+&#x200B;
+
+Here are some caveats about my approach: I am not a computer scientist. I don't come from that background. Many of my opinions are not orthodox. I spent the first 20 of my professional life as a classical violinist and music theory teacher. My first technology job was after I read a book on SQL, and my first 3 jobs were nothing but writing SQL. So a lot of my background has come from a data-centric place. It's nice that data is a big thing now! Over the last 13 years though, I've learned python and other languages mostly the hard way, but I've also done a ton of reading academic textbooks because that's how I grew up and learned music theory. So there's going to be some answers where I dive deep into computer science theory and practice and programming language design. Anything I say that isn't verbatim code is just one person's opinion. My word is not gospel. But it's what I have to offer, and I've thought about it a lot.
+
+&#x200B;
+
+I hope I can be really useful answering questions tomorrow and truly kind and helpful to everyone.
+
+&#x200B;
+
+&#x200B;
+
+EditEditEdkt: I changed my mind about being so hostile to the person who gilded me. Thank you kind person, for giving me an imaginary thing to put in my butt while I masturbate."
+Why study programming when you can just play an RPG?,1093,aw0au0,https://www.reddit.com/r/learnpython/comments/aw0au0/why_study_programming_when_you_can_just_play_an/,181,1551441734.0,TorroesPrime,"Had a noteworthy event today I thought many people in here would get a kick out of. I work as the IT tutor at my school and has part of that I  handle any Intro to Programming appointments that we get. In the Intro classes, they use Python. So I had a student come in today, basically at her wit's end, border-line in tears. Short of the long: 5 weeks into class and she was not understanding the concepts and it was really frustrating her. Okay, so I hunker down and start working with her. In this case, focusing on loops (as that's chapter 6 in the book). He seems to kind of, sort of be getting it, if I hold her hand and lead her through it.
+
+30 minutes in and we haven't really made any progress. I took a step back and started working with her on comparison operations. But she wasn't really getting that either. she is getting more frustrated. So I try to get her mind off the material for a moment.  Her phone flashes a reminder about ""D&D party"" tonight. So I ask if she plays D&D. She does, and we chat briefly about the campaign she's in (she plays a rogue, go figure). Then I hit on an idea.
+
+ ""You know a lot of early programmers were RPG players and because of  that a lot of what developed into modern programming was influenced and  based on RPG mechanics?""
+
+She looked at me like I'm making a really bad setup for an even worse joke.
+
+""I'm serious. How do you determine if you pass or fail a stat-test?"" I ask.
+
+ ""Well, you determine what you need to roll over to pass, roll a dice,  add any modifiers you have and compare that to the first number."" She explains, more energetically.
+
+""So you perform a comparison operation?"" I asked leadingly.
+
+ ""Well... no. I mean...  kind of... wait..."" She stammers out, her response interspersed as she thinks and talks at the same time. 
+
+I go to write on the White board: 
+
+
+    if Dice_roll+modifiers >= needed\_roll:  
+        you pass  
+     else:  
+         you fail
+
+She looked at it for a long moment, you could see the gears turning in her head. 
+
+ ""So the variable, Dice\_Roll is added to the variable modifiers.. and that's compared to the needed roll. If the needed\_roll is higher... you  fail... otherwise... you pass."" She parses out, once more thinking and speaking at the same time.
+
+""Yeah... and what about this one?"" I ask as I write on the board:
+
+     while enemy\_attack == True:            
+          player.cast(shield)
+
+She looks at it for a minute. 
+
+""So long as the enemy is attacking, cast the shield spell."" she says.
+
+""Nice, how about this one?"" 
+
+     for each enemy in hoard:  
+          If player.hp > enemy.defense:  
+               Target_enemy = True   
+               while Target_enemy == True:  
+                    player.attack(sword,enemy)
+
+ ""For each enemy in the hoard... check to see if the player Hit Points are greater then the that enemy's defense. If it is, target that enemy.  As long as that enemy is targeted, attack them.""
+
+""And you just worked through a while loop nested inside an if control statement that was inside a while loop."" I explain.
+
+ ""What?"" She says aghast. She quickly turns back to the board and starts studying the examples intently. I can see her eyes traveling across what I wrote.
+
+""So this on is just a comparison operator?"" She askes pointing to the dice roll I wrote out before.
+
+""Yup."" I respond.
+
+ ""And this is just a while loop that would tell the player character to  cast the shield spell.""  She askes sounding more confident.
+
+""Yup."" I respond.
+
+ Her entire face lights up in that unmistakable look of 'the light bulb turning on'. We start hammering through more examples of loops and control statements, fluctuating between the requirements of her assignments and using RPG examples.
+
+So I guess it all depends on what material you use to explain it, right"
+Automate the Boring Stuff FREE on Udemy,996,drnc0z,https://www.reddit.com/r/learnpython/comments/drnc0z/automate_the_boring_stuff_free_on_udemy/,97,1572927047.0,TechsInTheCity,"The great Al Sweigart is now on Udemy and is hooking us up with a FREE coupon thru 11/7.  Get some, and maybe show him a little social media love for all he does.
+
+https://mobile.twitter.com/AlSweigart/status/1191436575659311105"
+"""Automate the Boring Stuff with Python"" Udemy course is free to sign up for the next 48 hours: DEC2019FREE",916,e59vzp,https://www.reddit.com/r/learnpython/comments/e59vzp/automate_the_boring_stuff_with_python_udemy/,95,1575368029.0,AlSweigart,"You can use this code to sign up for the Udemy ""Automate the Boring Stuff with Python"" course for free:
+
+https://www.udemy.com/course/automate/?couponCode=DEC2019FREE
+
+During the month of December, you can also use DEC2019 to sign up for $14 instead of the usual $50: https://www.udemy.com/course/automate/?couponCode=DEC2019
+
+Due to the way Udemy now does promotions, I'm limited in how many discount codes I can make each month, so there's no way for me to make more after the 72 hour period, which ends roughly Wednesday night 7pm Pacific time.
+
+I'll have the second edition of the book in HTML format online, uh, soon. I've had some delays getting it ready. The online course follows the 1st edition, and I won't be able to update it until probably mid-2020. I'll write up a blog post about what exactly is new in the 2nd edition soon too. Go ahead and get started: the Udemy course is still useful.
+
+The 1st edition is free online under a Creative Commons license, but if you want to buy a print copy of the book, I recommend getting it directly from the publisher instead of Amazon; you get DRM-free ebook copies in PDF, Kindle, and epub formats for free with the print book: https://nostarch.com/automatestuff2"
+"""Automate the Boring Stuff"" author refactoring beginner's code on a live stream Wed 4/17 at 7pm pacific",897,bdzedl,https://www.reddit.com/r/learnpython/comments/bdzedl/automate_the_boring_stuff_author_refactoring/,67,1555478541.0,AlSweigart,"EDIT: Thanks for checking out the stream. If you missed it, it's at https://www.youtube.com/watch?v=y2W1PiHctnE
+
+Hello, Reddit! I'll be going over a short Python game written by a beginner and showing how I'd refactor the code so that it does the same thing but with shorter, more readable code.
+
+I'll be streaming tomorrow evening, Wednesday 4/17/2019 at 7pm Pacific at https://www.twitch.tv/alsweigart/ and answering questions folks post to the chat room. If you can't make it, this stream will be recorded and later posted to [YouTube](https://www.youtube.com/user/Albert10110).
+
+Some of the themes I'll cover are:
+
+* How to avoid ""Choose Your Own Adventure"" style code, which depends on flow control instead of data structures.
+* How to remove duplicate code (and why you'd want to).
+* When you should replace multiple variables with a list or dictionary.
+* How you can save yourself effort by using the Python standard library.
+
+If you have programs you'd like to see me refactor, feel free to PM me or post as a comment here your pastebin.com link. To make sure the audience can follow along and it's easy to stream, I'd like to ask that they:
+
+* Generally be between 10 and 300 lines of code in a single file.
+* Only use the Python standard library and not require additional modules.
+* Not require additional files, like files that need to be on your computer, or account info or special permissions or environment setups.
+
+See you then!"
+Nothing is more liberating than learning python well enough to be able to answer questions on Stack Overflow,851,cvl5jy,https://www.reddit.com/r/learnpython/comments/cvl5jy/nothing_is_more_liberating_than_learning_python/,51,1566836221.0,GeneticalTM,Seriously! Actually makes me feel vaguely skilled at the language!
+"Al Sweigart, author of the legendary 'Automate The Boring Stuff' book (and many others) now streams beginner-friendly live coding on twitch!",852,ao3zq2,https://www.reddit.com/r/learnpython/comments/ao3zq2/al_sweigart_author_of_the_legendary_automate_the/,56,1549576757.0,callmelucky,"Find him here:
+
+- https://www.twitch.tv/alsweigart
+
+Thanks to u/fersloth for posting this info in r/Python, this is super exciting news for anyone who watches twitch and wants to learn to code from a professional programmer and educator in an interactive environment!
+"
+Automated tasks at work... Boss found out,819,dy3nsz,https://www.reddit.com/r/learnpython/comments/dy3nsz/automated_tasks_at_work_boss_found_out/,257,1574115062.0,beauxbeaux,"Hello, 
+
+I've got a few python scripts that I've written to automate some of my work. My boss found out... 
+
+Boss isn't mad surprisingly! But boss wants me to allow others on our team to use the script so they can do the tasks too. 
+
+My problem is this: my script lives locally on my computer and I run the script through pycharm on my computer when I want to do these tasks. I have no idea how or where to put this script that allows others to use it, AND takes user input (just a couple variables). It needs to be presented in a way that doesn't confuse non-programmers.
+
+Also need to mention that my script works in conjunction with a separate app called chromedriver (IIRC). Its an app that has to be running while I run my script: it allows remote navigation of a website i.e. the computer clicks buttons/links instead of me.
+
+Any advice?
+
+EDIT: not that it's important but I'm finding it curious a lot of comments are calling me 'he'. I'm a lady 😁"
+For begginers who are searching for what to do after finishing a course,774,dob4kd,https://www.reddit.com/r/learnpython/comments/dob4kd/for_begginers_who_are_searching_for_what_to_do/,70,1572308558.0,whole_extraordinary,"I have been lurking around in this subreddit for quite a while and what I have noticed is people ask the following questions a lot:
+
+* What to do after I finish a course?
+* What projects should I build?
+* What should I learn next in python?
+
+So if you are asking one of these questions this article is for you.
+
+Enjoy!
+
+I would first recommend anybody to learn the following interesting and helpful modules in python like:
+
+1. Beautiful soup to do web scraping.
+2. Tkinter for building basic GUI/apps.
+3. PyGame for game building with GUI.
+4. Os to mess with files and folders.
+
+I would also recommend you'll to go through the book, [""Automate the boring stuff with python""](https://automatetheboringstuff.com/) from [chapter 7](https://automatetheboringstuff.com/chapter7/) if you'll are familiar with most of the stuff in python otherwise start with [chapter 1](https://automatetheboringstuff.com/chapter1/). Some projects which could be done with those modules are:
+
+1. A very common project with beautiful soup module is scrapping every day's weather forecast.
+2. Building a calculator, attendance recorder or an image hub like [pexels.com](https://pexels.com/) with Tkinter.
+3. With PyGame there are endless possibilities and trust me game making is not so easy with PyGame though basic projects you'll could build are a flappy bird, a racing game, a top-down shooter game or a side scroller like Mario(well don't try to make the exact replica of Mario because that's tough!!).
+4. If you'll want to build something very very basic try building rock paper scissors, cross and nuts, battleship without any GUI and output in the terminal itself.
+
+Another thing which I would recommend is solving problems by going to these few sites
+
+1. [Hackerrank.com](https://hackerrank.com/)
+2. [geekforgeeks.com](https://www.geeksforgeeks.org)
+
+Solving problems might get you'll to be demotivated and to be honest, it got demotivated too but I continued and I got my more confidence back afterwards.
+
+And that's all. Doing these will give you guys a massive skill, knowledge and a confidence boost in python."
+I made a bot that accuses random celebrities of being in 6ix9ine's 'Nine Trey Bloods' gang.,771,da0eqv,https://www.reddit.com/r/learnpython/comments/da0eqv/i_made_a_bot_that_accuses_random_celebrities_of/,67,1569619697.0,pattyperk,"IDK why I did this, but [here it is](https://twitter.com/bloods_bot).
+
+ Every day, it accuses the most famous person on [Famous Birthdays](https://www.famousbirthdays.com/) of being in [6ix9ine](https://en.wikipedia.org/wiki/6ix9ine)'s '[Nine Trey Bloods](https://en.wikipedia.org/wiki/Nine_Trey_Gangsters)'.
+
+Here's how it works:
+
+* Uses bs4 to scrape Famous Birthdays for celebrity name & picture.
+* Uses Tweepy to search Twitter for the name, returns the most relevant user (if the celeb doesn't have a twitter, it still tags the first result which is kinda funny).
+* Uses Tweepy to attach media & tweet.
+
+[Full code.](https://github.com/lilblizzard/blood_bot)
+
+p@"
+Just spent 2 hours to automate joining csv files saving hundreds of hours a year,763,a085dx,https://www.reddit.com/r/learnpython/comments/a085dx/just_spent_2_hours_to_automate_joining_csv_files/,106,1543177971.0,swiftrob,"I just am feeling that buzz from  solving a problem that will save our small business potentially hundreds of hours a year.  We had multiple csv files that had info linked by an ID column that we had to join into a new sheet by hand every month or so.  Boring and time consuming. 
+
+Now all we do is select the source files via a gui and done.  It spits out the newly joined csv.
+
+Simple for some but this is one of my first code tasks that I really understood my approach from the start,   pumped out the code and it all just worked. 
+
+Very pleased.  Buzzed"
