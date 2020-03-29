@@ -2,11 +2,11 @@ import praw
 import pandas as pd
 import datetime as dt
 
-reddit = praw.Reddit(client_id='r3faeD41W9VkmA', \
-                     client_secret='lOI9b6v1krkJ5s9pMK-cpPSqjsc', \
-                     user_agent='koolgax', \
-                     username='koolgax99', \
-                     password='Tennis@1234')
+reddit = praw.Reddit(client_id='ur_client_id', \
+                     client_secret='ur_client_secret', \
+                     user_agent='ur_user_agent', \
+                     username='ur_username', \
+                     password='ur_password')
 
 subreddit = reddit.subreddit('datascience')
 
